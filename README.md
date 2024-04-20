@@ -2,6 +2,7 @@
 
 bash
 
-$> bash kubeplugin deployment mynamespace
+$> bash kubeplugin 
 
-Це повинно вивести статистику використання ресурсів для деплойментів у просторі імен `mynamespace`.
+Це повинно вивести статистику використання ресурсів для PODS у просторі імен `demo`.
+![Image](.data/demo-kubeplugin.gif)
